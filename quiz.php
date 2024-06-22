@@ -1,4 +1,5 @@
 <?php
 <form action="puiz.php" method="get"/>
-<input type="text" id=24G3035&teacher=yabuki" name="username"/>
+    <label for="username">Enter your name:</label>
+  <input type="text" id=24G3035&teacher=yabuki" name="username"/>
 </form>
